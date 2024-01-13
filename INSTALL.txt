@@ -1,0 +1,15 @@
+we installed the sha256 and yojson library: 
+note: you can do the following on a new switch, but it's not necessary
+
+in your terminal, run the following command: 
+opam install sha.1.14
+
+also in the terminal run: 
+opam install yojson
+
+then open utop, and run the following two code segments: 
+#require "yojson";;
+open Yojson;;
+
+to start the program, please open the project in terminal and run: 
+make blockchain

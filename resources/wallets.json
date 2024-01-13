@@ -1,0 +1,26 @@
+[
+  {
+    "name": "asad",
+    "balance": 5500.0,
+    "symbol": "CamelCoin",
+    "supply": 0.0
+  },
+  {
+    "name": "annie",
+    "balance": 600.0,
+    "symbol": "CamelCoin",
+    "supply": 0.0
+  },
+  {
+    "name": "deeps",
+    "balance": 700.0,
+    "symbol": "CamelCoin",
+    "supply": 0.0
+  },
+  {
+    "name": "deepa",
+    "balance": 700.0,
+    "symbol": "CamelCoin",
+    "supply": 0.0
+  }
+]

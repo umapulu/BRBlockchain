@@ -1,0 +1,32 @@
+---
+# Members of your group.
+group:
+  - name: Deepa Pulugurtha
+    netid: udp3
+  - name: Dee Tran
+    netid: dtt35
+  - name: Kate Zheng
+    netid: khz7
+  - name: Annie Zhou
+    netid: az385
+
+# Your PM.
+pm:
+  name: Shuyu Cao
+  netid: ssc256
+# Set to false if you don't want your gallery entry to be public.
+publish: true
+# Pithy title
+title: "Big Red Blockchain"
+# OK if this is a Cornell Github link, but public gallery viewers won't be able
+# to see it.
+git-repo: "https://github.coecis.cornell.edu/udp3/3110-final"
+# If you have no demo screencast, replace the url string with an empty string ""
+demo-video-url: ""
+# Write a short, attention-grabbing description of your project.
+desc: >
+  Our project is a blockchain written purely in OCaml. Users can create wallets, 
+  mine blocks, view transactions, and observe the ledger. Big Red Blockchain is 
+  extensible, transparent, and secure. Our application can support countless 
+  real-world applications like decentralized finance, non-fungible tokens, and 
+  smart contracts.
